@@ -1,5 +1,11 @@
 [
 	{
+		"year": 2024,
+		"chairman": "Yap Hao Ming Darren",
+		"viceChair": "Derrick Lukimin",
+		"trainingHead": "Wu Hao and Andy Lin Zi Hao"
+	},
+	{
 		"year": 2023,
 		"chairman": "Yang An Yi",
 		"viceChair": "Darrel Chan",
@@ -8,7 +14,7 @@
 	{
 		"year": 2022,
 		"chairman": "Dylan",
-		"viceChair": "Yu Yao",
-		"trainingHead": "Chur Zhe"
+		"viceChair": "Tan Yu Yao",
+		"trainingHead": "Yaw Chur Zhe"
 	}
 ]
